@@ -1,0 +1,15 @@
+{"message":"::ffff:127.0.0.1 - - [03/Mar/2020:19:37:34 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0\"\n","level":"info"}
+{"message":"::ffff:127.0.0.1 - - [03/Mar/2020:19:37:34 +0000] \"GET /stylesheets/style.css HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0\"\n","level":"info"}
+{"message":"404 - Not Found - /hello - GET - ::ffff:127.0.0.1","level":"error"}
+{"message":"::ffff:127.0.0.1 - - [03/Mar/2020:19:38:15 +0000] \"GET /hello HTTP/1.1\" 404 1302 \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0\"\n","level":"info"}
+{"message":"::ffff:127.0.0.1 - - [03/Mar/2020:19:38:15 +0000] \"GET /stylesheets/style.css HTTP/1.1\" 304 - \"http://localhost:3000/hello\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0\"\n","level":"info"}
+{"message":"::ffff:127.0.0.1 - - [03/Mar/2020:19:38:30 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0\"\n","level":"info"}
+{"message":"::ffff:127.0.0.1 - - [03/Mar/2020:19:38:30 +0000] \"GET /stylesheets/style.css HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0\"\n","level":"info"}
+{"message":"::ffff:127.0.0.1 - - [03/Mar/2020:19:56:07 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0\"\n","level":"info"}
+{"message":"::ffff:127.0.0.1 - - [03/Mar/2020:19:56:07 +0000] \"GET /stylesheets/style.css HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0\"\n","level":"info"}
+{"message":"::ffff:127.0.0.1 - - [03/Mar/2020:22:20:38 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0\"\n","level":"info"}
+{"message":"::ffff:127.0.0.1 - - [03/Mar/2020:22:20:38 +0000] \"GET /stylesheets/style.css HTTP/1.1\" 304 - \"http://localhost:3000/\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:73.0) Gecko/20100101 Firefox/73.0\"\n","level":"info"}
+{"message":"::ffff:127.0.0.1 - - [31/Mar/2020:16:10:22 +0000] \"GET / HTTP/1.1\" 200 170 \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0\"\n","level":"info"}
+{"message":"::ffff:127.0.0.1 - - [31/Mar/2020:16:10:22 +0000] \"GET /stylesheets/style.css HTTP/1.1\" 200 111 \"http://127.0.0.1:3000/\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0\"\n","level":"info"}
+{"message":"404 - Not Found - /favicon.ico - GET - ::ffff:127.0.0.1","level":"error"}
+{"message":"::ffff:127.0.0.1 - - [31/Mar/2020:16:10:22 +0000] \"GET /favicon.ico HTTP/1.1\" 404 1302 \"-\" \"Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:74.0) Gecko/20100101 Firefox/74.0\"\n","level":"info"}
